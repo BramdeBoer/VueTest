@@ -1,4 +1,4 @@
-# test
+# project
 
 ## Project setup
 ```
@@ -18,9 +18,4 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
 ```
