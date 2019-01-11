@@ -1,4 +1,6 @@
-# project
+# VueTest
+
+Simple project to try out the VueJS framework.
 
 ## Project setup
 ```
